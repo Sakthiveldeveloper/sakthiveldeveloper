@@ -11,9 +11,9 @@ Aakash (to All - Entire Audience):
 14:52: ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-sakthivel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakthivel-a-6164bb135/)](https://www.linkedin.com/in/sakthivel-a-6164bb135/)
+[![Website Badge](https://img.shields.io/badge/WebSite-sakthivel-green)](https://www.aakash.me)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-sakthivel-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
 Full Stack Solution Architect
