@@ -12,7 +12,7 @@ Saakthivel (to All - Entire Audience):
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-sakthivel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakthivel-a-6164bb135/)](https://www.linkedin.com/in/sakthivel-a-6164bb135/)
-[![Website Badge](https://img.shields.io/badge/WebSite-sakthivel-green)](https://www.aakash.me)
+[![Website Badge](https://img.shields.io/badge/WebSite-sakthivel-green)](https://www.saakthivel.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-sakthivel-yellow)](https://stackoverflow.com/users/14552530/sakthivel-)
 
 I'm
