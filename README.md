@@ -21,14 +21,14 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Sakthivel-green)](https://www.sakthivel.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sakthivel-orange)](https://stackoverflow.com/users/14552530/sakthivel-)
 
-I'm
-Full Stack Software Engineer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. 
 
+
+<h3>
 I'm 
 MERN Full stack engineer
 Full stack engineers are highly skilled experts in the world of web, application, and software development. These technical expert skilled in coding for both the front end and back end, requiring a big-picture visualization of the entire platform. Full stack engineers work with a range of technologies and languages such as JavaScript, HTML, and SQL to develop applications that cater to both user experience and functionality. The best full stack engineers know how to handle everything from project management to the installation of the correct operating system on a server. In other words, they are multitasking programmers who can handle the complete implementation of a website or application
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Mysql),
+ </h3>
 
 <!--
 **Sakthiveldeveloper/Sakthiveldeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
