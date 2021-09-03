@@ -30,7 +30,11 @@ MERN Full stack engineer
 Full stack engineers are highly skilled experts in the world of web, application, and software development. These technical expert skilled in coding for both the front end and back end, requiring a big-picture visualization of the entire platform. Full stack engineers work with a range of technologies and languages such as JavaScript, HTML, and SQL to develop applications that cater to both user experience and functionality. The best full stack engineers know how to handle everything from project management to the installation of the correct operating system on a server. In other words, they are multitasking programmers who can handle the complete implementation of a website or application
 I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Mysql),
 
-  
+<!--
+**Sakthiveldeveloper/Sakthiveldeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+
 
 ![Visitor Count](https://profile-counter.glitch.me/sakthiveldeveloper/count.svg)
 
@@ -40,6 +44,7 @@ I have a wide range of skills that include back-end development using open sourc
     <img src="https://github-profile-trophy.vercel.app/?username=sakthiveldeveloper&column=7"/>
   </a>
 </div>
+  
 
 Languages and Tools:
 
@@ -48,34 +53,5 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=sakthiveldeveloper&theme=react-dark&area=true)
 
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
-
-<!--
-**Sakthiveldeveloper/Sakthiveldeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
 
 
