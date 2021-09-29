@@ -24,10 +24,10 @@
 
 
 <h5>
-I'm 
+ 
 MERN Full stack engineer
-Full stack engineers are highly skilled experts in the world of web, application, and software development. These technical expert skilled in coding for both the front end and back end, requiring a big-picture visualization of the entire platform. Full stack engineers work with a range of technologies and languages such as JavaScript, HTML, and SQL to develop applications that cater to both user experience and functionality. The best full stack engineers know how to handle everything from project management to the installation of the correct operating system on a server. In other words, they are multitasking programmers who can handle the complete implementation of a website or application</br>
-I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Mysql),
+Full stack engineers are highly skilled experts in the world of web, application, and software development. These technical expert skilled in coding for both the front end and back end. Full stack engineers work with a range of technologies and languages such as JavaScript, HTML, and NoSQL to develop applications that cater to both user experience and functionality. The best full stack engineers know how to handle everything from project management to the installation of the correct operating system on a server.</br>
+I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB)
  </h5>
 
 <!--
